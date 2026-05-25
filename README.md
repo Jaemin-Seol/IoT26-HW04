@@ -6,7 +6,8 @@
 ## Result
 
 ### Photos
-<img width="791" height="720" alt="image" src="https://github.com/user-attachments/assets/35480156-fb3f-4493-a346-7b7f53177f78" />
+<img width="780" height="602" alt="image" src="https://github.com/user-attachments/assets/082b7524-2fad-4deb-985c-d5da31bd0b0a" />
+
 <img width="771" height="652" alt="image" src="https://github.com/user-attachments/assets/ab9cd06f-1750-4acb-a4de-574c2fa427c6" />
 
 
